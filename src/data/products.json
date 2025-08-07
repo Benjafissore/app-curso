@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Locro",
+    "price": 19000,
+    "image": "https://i.ytimg.com/vi/z8vhoGjpW-M/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Docena de empanadas",
+    "price": 25000,
+    "image": "https://assets.unileversolutions.com/recipes-v3/35156-default.png"
+  },
+  {
+    "id": 3,
+    "title": "Lomo completo c/papas",
+    "price": 16000,
+    "image": "https://www.circuitogastronomico.com/wp-content/uploads/2022/04/lomitook.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Milanesa c/guarnicion",
+    "price": 17000,
+    "image": "https://cdn0.recetasgratis.net/es/posts/4/9/8/milanesa_de_carne_11894_orig.jpg"
+  }
+]
